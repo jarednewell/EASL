@@ -6,6 +6,7 @@ EASL is independent of the blockchain architecture, unlike other indexing techni
 
 # Reference
 BibTeX
+'''
 @article{newell2024,
   title={{EASL}: Enhanced append-only skip list index for agile block data retrieval on blockchain},
   author={Newell, Jared and ur Rehman, Sabih and Mamun, Quazi and Islam, Md Zahidul},
@@ -14,3 +15,4 @@ BibTeX
   year={2024},
   publisher={Elsevier}
 }
+'''

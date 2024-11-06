@@ -1,5 +1,4 @@
-# EASL
-EASL: Enhanced Append-only Skip List
+# EASL: Enhanced Append-only Skip List
 
 # Introduction
 EASL is independent of the blockchain architecture, unlike other indexing techniques that have addressed a specific data indexing problem associated with a specific blockchain type. Such particular indexing techniques prevent the application to different blockchain types and blockchain use cases. Other techniques only address the data contained in a single block, and therefore, cannot provide a relationship between transactions in different blocks. EASL is able to track the relationship between data in different blocks, thus, facilitating and promoting data provenance. This makes real-time data analysis of the blockchain practical.
